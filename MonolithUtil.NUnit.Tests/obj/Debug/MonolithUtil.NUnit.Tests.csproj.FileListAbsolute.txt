@@ -1,0 +1,10 @@
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\MonolithUtil.NUnit.Tests.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\MonolithUtil.NUnit.Tests.pdb
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\MonolithUtil.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\nunit.framework.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\MonolithUtil.pdb
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\bin\Debug\nunit.framework.xml
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\obj\Debug\MonolithUtil.NUnit.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\obj\Debug\MonolithUtil.NUnit.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\obj\Debug\MonolithUtil.NUnit.Tests.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil.NUnit.Tests\obj\Debug\MonolithUtil.NUnit.Tests.pdb

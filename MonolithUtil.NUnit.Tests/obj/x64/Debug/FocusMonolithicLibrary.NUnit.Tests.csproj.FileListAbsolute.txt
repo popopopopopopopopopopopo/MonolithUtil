@@ -1,0 +1,10 @@
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.pdb
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\nunit.framework.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\nunit.framework.xml
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\obj\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.csprojResolveAssemblyReference.cache
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\obj\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.csproj.CoreCompileInputs.cache
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\obj\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\obj\x64\Debug\FocusMonolithicLibrary.NUnit.Tests.pdb
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\FocusMonolithicLibrary.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithicLibrary.NUnit.Tests\bin\x64\Debug\FocusMonolithicLibrary.pdb

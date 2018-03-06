@@ -1,0 +1,6 @@
+C:\Users\kosugi\Desktop\Main\MonolithUtil\bin\Debug - WithoutEFLib\MonolithUtil.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil\bin\Debug - WithoutEFLib\MonolithUtil.pdb
+C:\Users\kosugi\Desktop\Main\MonolithUtil\obj\Debug - WithoutEFLib\MonolithUtil.csprojResolveAssemblyReference.cache
+C:\Users\kosugi\Desktop\Main\MonolithUtil\obj\Debug - WithoutEFLib\MonolithUtil.csproj.CoreCompileInputs.cache
+C:\Users\kosugi\Desktop\Main\MonolithUtil\obj\Debug - WithoutEFLib\MonolithUtil.dll
+C:\Users\kosugi\Desktop\Main\MonolithUtil\obj\Debug - WithoutEFLib\MonolithUtil.pdb

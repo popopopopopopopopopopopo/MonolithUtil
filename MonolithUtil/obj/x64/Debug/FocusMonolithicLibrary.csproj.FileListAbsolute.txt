@@ -1,0 +1,5 @@
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithic\bin\x64\Debug\FocusMonolithicLibrary.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithic\bin\x64\Debug\FocusMonolithicLibrary.pdb
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithic\obj\x64\Debug\FocusMonolithicLibrary.csproj.CoreCompileInputs.cache
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithic\obj\x64\Debug\FocusMonolithicLibrary.dll
+Q:\DNVSTS\Center\Core\Common\Monolithic\Main\FocusMonolithic\obj\x64\Debug\FocusMonolithicLibrary.pdb
